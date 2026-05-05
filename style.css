@@ -117,6 +117,11 @@ li {
   border-radius: 15px 15px 0px 0px;
 }
 
+.space-right  {
+padding-right: 30px;
+  
+}
+
 .column {
   display: flex;
   flex-direction: column;
@@ -568,6 +573,7 @@ section > * {
     left: 0;
     top: -20px;
     padding-left: 20px;
+    padding-bottom:10px;
     border-top-right-radius: 0;
     border-bottom-left-radius: 15px;
   }
@@ -576,7 +582,9 @@ section > * {
   }
 }
 
-
+.space-right  {
+padding-bottom: 20px;
+  
 
 
 
